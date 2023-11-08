@@ -9,3 +9,16 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+# Packages
+```{r}
+library(devtools)
+library(tidyverse)
+library(readxl)
+usethis::use_github()
+```
+
+
+```{r}
+
+```
+
